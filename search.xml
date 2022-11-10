@@ -1,21 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/project/2022/11/06/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>雨崩游记（一）：飞来寺宜赏云观鸟，雨崩村遇大雨倾盆</title>
+    <url>/project/2022/11/09/yubeng1/</url>
+    <content><![CDATA[<style type="text/css" rel="stylesheet">
+* figure figcaption {
+    text-align: center;
+    color: gray;
+    font-size: 12px;
+}
+</style>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><br>
 
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>入坑户外一年有余，北京周边的短线转了个十之一二，长线还只走过大五台。但不妨碍各地的经典线路从众多大佬的嘴里汇聚到我的心愿清单。十一假期宅家一看，已经快满两屏了。</p>
+<p>一个咸鱼挺身，先请上廿大之后一周的假，想来这时游客较少，而多地秋色也正当盛时。筛去大概率难以返京的地区，作为一个长线小白，剩下的线路也省去了选择的纠结。雨崩，自然而然排上了我列表的首位。</p>
+<span id="more"></span>
 
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>确定好日期和目的地后便开始攻略查询，行程规划，物资准备，精神食粮准备。我仿佛又回到了大一第一次独自旅行的前夕。</p>
+<p>而与那次旅行规划的完美实现不同，这次的行程在一开始便险些不能成行。去往丽江的机票在临行前三天、两天，因公共安全原因连续被取消了两次。而到达雨崩之后的展开更是与计划渐行渐远。但我不得不承认，一切命运的偶然回头来看，都是比计划更美好的安排。</p>
+<p>最终，我在10月22日的日出之前坐上了去往大理的航班。</p>
+<figure>
+  <img
+  src="https://s3.bmp.ovh/imgs/2022/11/09/b5f115f7dba820d2.jpg"
+  >
+  <figcaption>去往大理的航班上看到雪山</figcaption>
+</figure>
 
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<figure>
+  <img
+  src="https://s3.bmp.ovh/imgs/2022/11/09/fc2be6e83ac57b07.jpg"
+  >
+  <figcaption>进入香格里拉地界</figcaption>
+</figure>
+
+<br>
+<br>
+<br>
+
+<h2 id="雨崩游记（一）：飞来寺宜赏云观鸟，雨崩村遇大雨倾盆"><a href="#雨崩游记（一）：飞来寺宜赏云观鸟，雨崩村遇大雨倾盆" class="headerlink" title="雨崩游记（一）：飞来寺宜赏云观鸟，雨崩村遇大雨倾盆"></a>雨崩游记（一）：飞来寺宜赏云观鸟，雨崩村遇大雨倾盆</h2><br>
+
+<p>虽然前一天刚坐了三小时飞机，六小时大巴，才从北京到大理，再辗转到达香格里拉。但对于前往德钦的这三小时的大巴，我依然无比期待。因为这趟大巴将继续逆金沙江而上，穿过肖林守护了三十五年的白马雪山，进入肖林笔下三江并流，雪山纵横的德钦地界。</p>
+<p>然而出发不久，我便感觉自己像是蒙着眼睛进了大观园的刘姥姥。路一直在金沙江东侧的山腰，坐在车右的我只能看见被开凿的裸露的山体。左侧的车窗里却一直涌动着对岸山坡上成片的彩林，向下说不定还能看见金沙江谷。</p>
+<p>这辆大巴上的外地游客十分显眼，坐在左前方的两位女生，一直咔咔拍着照片，我只能暗暗羡慕。靠窗的那位不时还需要吸两口氧气缓一缓，而靠走道的高个子女生则一直十分活跃。看她一身的户外装备盲猜也是要去雨崩。后来证明的我猜测准确无误，但我没有猜到的是，她的同座竟然完全是被她半路忽悠去的雨崩。</p>
+<p>两岸的崇山截走云雾，只留给河谷干和热。大巴驶出中甸地界，在奔子栏区域下降到谷底，两岸植被稀疏，裸露着红岩，反衬着金沙江水更加青绿。直到海拔重新逐渐拔升，经过东竹林寺和作为群山之心的日尼神山，高大的乔木才逐渐出现，道路也来到了西侧的山坡。上午的阴云早已瓦解，留下恣肆的白云，以千奇百怪的形态或高或低地飘在空中，在起伏的山峦上营造出布景般的光影。</p>
+<p>而进入白马雪山的地界后，亚高山暗针叶林密布了整片整片的山坡，在上方的雪峰之下显出一片勃勃生机。而此时正沉浸在这绝美风光中的我不敢想象，几天之后我才将见到白马雪山最为震撼的美景。</p>
+<figure>
+  <img
+  src="https://s3.bmp.ovh/imgs/2022/11/09/b10269ee7c89169f.jpg"
+  >
+  <figcaption>干热的金沙江谷</figcaption>
+</figure>
+
+<figure>
+  <img
+  src="https://s3.bmp.ovh/imgs/2022/11/09/c9c87963c9c9ae70.jpg"
+  >
+  <figcaption>渐升的海拔</figcaption>
+</figure>
+
+<figure>
+  <img
+  src="https://s3.bmp.ovh/imgs/2022/11/09/bd4533dd6f8a29f0.jpg"
+  >
+  <figcaption>恣肆的白云</figcaption>
+</figure>
+
+<figure>
+  <img
+  src="https://s3.bmp.ovh/imgs/2022/11/09/ec58a120427dfb7f.jpg"
+  >
+  <figcaption>白马雪山</figcaption>
+</figure>
+
+<br>
+
+<p>到达飞来寺时天已大黑，云雾笼罩之下一点星光也未透出，让我彻底断了看日照金山的念想。酒店老板表示同意，然后极力向我描述了昨日今日早上日照金山的盛景，听得我不免有些心梗。但一个整日整年守在这里的人，在回忆昨日盛况时依然充满了的震撼之情。这不由得让我对日照金山更加想往，甚至产生了些许不切实际的幻想。</p>
+<p>幻想终归幻想，第二天日出前头顶上漫天的愁云才是现实。但当我转头西望，看向这广阔天地间汪洋恣肆，气象万千的云海时，不禁想，这壮阔的云海又何逊于日照金山。</p>
+<p>飞来寺与梅里雪山仅一江之隔，太子十三峰在澜沧江西侧自北向南一字排开。在这片雪峰围合的天地之间，无尽的云在山谷，在山腰，在雪峰之上，青天之下遨游，自南向北，浩浩汤汤。泛白的蓝天，微紫的远方，黑白分明的雪峰，皆成了云海巡游的背景。</p>
+<p>而在这万千云朵构筑的天界中，又有三只黑影，在我们这群凡夫俗子面前，绕山穿云，驰骋翱翔，来回往复，不厌其烦。倘若在这里闲坐一日，赏云观鸟，随其神游天地，又岂不快哉。</p>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe 
+src="https://www.bilibili.com/video/BV1wd4y1F7pG/" scrolling="no" border="0" 
+frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
+height: 100%; left: 0; top: 0;"> </iframe></div>
+
+<br>
+
+<p>只是雨崩还在向我招手，我联系上包车去西当村的司机，以及昨天大巴上约我一起走雨崩的小哥。又恰巧遇上那位穿蓝色冲锋衣的女生（辉辉）和被她忽悠来的同座。几人同车，在大山里绕着数不清的弯，一路降到澜沧江河谷，跨过湍急的河水，再盘山而上向西前往西当。小哥（若晨）坐在副驾，我凭相貌本以为是个藏族人，谁知上车就向真正的藏族司机小哥请教起了藏传佛教。后来又讲起他去过的大片的藏区，对各个教派如数家珍。或许因此，他一个正经中原人竟然神似藏民，甚至曾有藏族的大哥都误以为他是同族。又或许是外在的相似引发了内在的吸引。这因果顺序我倒也没有深究，因为当时我已经晕车晕得说不出话来。</p>
+<p>揣着满脑子的藏传佛教知识晃荡到了西当，我和若晨徒步进雨崩，女生们选择坐越野车快速进村然后去神瀑。</p>
+<p>雨崩通车也不过是近几年的事。在那之前，这条十几公里的羊肠小道千百年来都是出村的唯一通路。双脚加骡子也得走上七八个小时，若遇上雨雪，道路更是泥泞难行。徒步进村是我选择的仪式感。背着自己所有的行李，沿着这条小路一步步走进雨崩，我自以为这样才能延展这段时空，将雨崩与外界分离，也将自己与自己剥离。</p>
+<p>幸好此时的天气还是天朗气清，山间小径静谧无人。开始我还和若晨谈天说地，但持续地爬升渐渐让我们上气不接下气。只能不时停下休憩，从树缝间回望白马雪山。</p>
+<p>若晨徒步经验不多，开始似乎还不太适应这样剧烈的爬升。休息的时候我问他感觉如何，没想到他说：“太爽了，这种让自己完全放空的感觉太爽了”。我先是一诧，而后深表赞同。而更让我没想到的是，这位大佬现在只是在装蒜，后两日的徒步我被他甩得他影子都看不到。</p>
+<p>小径接上车行道，每当有越野车经过时，我们都只能背对着路，捂住口鼻，和路边已被尘土完全掩去光彩的植物对视。车行道上的痛苦爬升结束后，我们穿过秋色尽染的冷杉林，终于翻上南争第一垭口。正想着找吃午饭的地方，我发现右手边的林子里隐约可见一大片五彩的风马旗。我犹豫了片刻，终于决定进去一探究竟。走入深处一看，果如仙境。</p>
+<p>无数枝头垂下千万缕淡绿的松萝，蟠虬的枝干撑起一片幽静的宫殿。山头的云雾增添了林间的阴翳。而满眼嫩绿的苔藓，与零落其上金色的杉叶便是这片阴翳的礼赞。</p>
+<p>踏着松软的落叶和青苔，我坐上一根倒木，边发呆边吃着热腾腾的燕麦，默默没有发出声响。</p>
+<figure>
+  <img
+  src="https://s3.bmp.ovh/imgs/2022/11/10/75587ccf6943a519.jpg"
+  >
+  <figcaption>垭口前的冷杉林</figcaption>
+</figure>
+
+<figure>
+  <img
+  src="https://s3.bmp.ovh/imgs/2022/11/10/bd296e0098d1bd37.jpg"
+  >
+  <figcaption>休憩处树上的精灵小鼠</figcaption>
+</figure>
+(午饭处丛林秘境的感觉手机实在难以拍出)
+
+<br>
+<br>
+
+<p>吃饱喝足再前行，却没想到还是上坡，又是一番爬升才翻到进村路的最高点，”南争垭口“。前面的第一垭口着实将我骗住。过了南争垭口，我们便正式别过澜沧白马，直下雨崩了。</p>
+<p>下山的路走起来轻松愉快，虽然云雾渐渐遮蔽了所有的山头，但对面山峰的景色却越发动人。我们离雨崩越来越近了。</p>
+<p>当我走上一个无人的观景台，雨崩的全貌瞬间笼罩我的眼帘。我毫不夸张地说，我的脑袋真的嗡嗡作响了一刻。我看过许多雨崩的照片，对雨崩的景象有无数的幻想，又饱览了这一路的山色，但亲眼所见的雨崩依然远远超出了我狭隘的想象。这是一种非身临其境不能获得的感受，我二十多年的生命体验被崩开了一道难得的缝隙，新的体验将从此延伸。</p>
+<p>当时的我脑子里完全是一团乱麻，只有现在回想时才能勉强将所见之景诉诸笔下。明暗相间，黄绿交错的彩林细密而有韵律，包裹住了雨崩附近所有的山坡。高峻的落差让对面山坡上的彩林如一幅巨幕，占据了大半的视野，而画上的树尖似乎近到伸手便可触碰。几条从雨崩延伸出去的山谷则向极远极高处不断延伸，直到变成一片雪白，再隐入遥远的云雾之中。若晨说，他每次感受到”深远“都是在藏区的高山深谷之中。”深远“与‘高远”，这两个在我记忆中尘封许久的术语，确实是对这几条山谷之景极为恰当的描述。而雨崩村，则座落在这几谷相交，几山相夹，莽莽山林中的一小片淡绿色草坪之上。点缀在草坪上零星的几栋建筑，是这大山深处唯一的人烟。面对这样的景色，心神不断地在近与远，高与低，明与暗，自然与人工之间拉扯徘徊，让人不可自拔，直到将这片山水深深铭刻在心。</p>
+<figure>
+  <img
+  src="https://s3.bmp.ovh/imgs/2022/11/10/e1306828661e8ca7.jpg"
+  >
+  <figcaption>通往雨崩的路</figcaption>
+</figure>
+
+
+<figure>
+  <img
+  src="https://s3.bmp.ovh/imgs/2022/11/10/b90fe02a06e71a4a.jpg"
+  >
+  <figcaption>云遮雾绕</figcaption>
+</figure>
+
+
+<figure>
+  <img
+  src="https://s3.bmp.ovh/imgs/2022/11/10/6b2064977d106184.jpg"
+  >
+  <figcaption>雨崩全景</figcaption>
+</figure>
+
+<figure>
+  <img
+  src="https://s3.bmp.ovh/imgs/2022/11/10/afc9a46b653d60c3.jpg"
+  >
+  <figcaption>通往尼龙大峡谷</figcaption>
+</figure>
+
+<p>进村的时候已经下起了雨，不到三点我们便入住了客栈。我一个人坐在大堂窗边，撸着客栈的小猫直到天色将晚。</p>
+<p>雨似乎越下越大，而辉辉一行此时正在从神瀑回村的路上。</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p><em>下回预告：神瀑游本意休闲客，下险坡回首望冰河</em></p>
 ]]></content>
   </entry>
 </search>
