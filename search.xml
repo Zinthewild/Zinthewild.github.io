@@ -9,6 +9,10 @@
     color: gray;
     font-size: 12px;
 }
+* figure {
+  margin-inline-start: 5px;
+  margin-inline-end: 5px;
+}
 </style>
 
 <h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><br>
